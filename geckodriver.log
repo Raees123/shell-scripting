@@ -1,0 +1,15 @@
+1549293982811	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.8ZwAWo4ZVxV9"
+1549293984184	Marionette	INFO	Enabled via --marionette
+1549293987022	Marionette	INFO	Listening on port 40781
+1549293987204	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: about:newtab, line 914: TypeError: gSnippetsMap.getTotalBookmarksCount is not a function
+JavaScript error: about:newtab, line 914: TypeError: gSnippetsMap.getTotalBookmarksCount is not a function
+1549351484706	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.G85KcBwZLo9A"
+1549351485866	Marionette	INFO	Enabled via --marionette
+1549351488560	Marionette	INFO	Listening on port 39397
+1549351488644	Marionette	WARN	TLS certificate errors will be ignored for this session
+Marionette threw an error: TypeError: this.curBrowser.contentBrowser is null
+GeckoDriver.prototype.get@chrome://marionette/content/driver.js:1060:3
+
+JavaScript error: about:newtab, line 914: TypeError: gSnippetsMap.getTotalBookmarksCount is not a function
+JavaScript error: about:newtab, line 914: TypeError: gSnippetsMap.getTotalBookmarksCount is not a function
